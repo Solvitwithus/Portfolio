@@ -1,8 +1,8 @@
-#image{
+#image {
     object-fit: cover;
-    height:4rem;
-    width: 4rem;
-   
+    height: 4rem;
+    width: 100%;
+    max-width: 4rem;
 }
 #navbar{
     height: 5rem;
