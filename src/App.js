@@ -2,6 +2,8 @@ import Navigation from "./navigatio n ";
 import Home from "./home";
 import About from "./about";
 import Aboutsec from "./aboutsec";
+import Certifications from "./certifications";
+import Documents from "./docs";
 function App() {
   return (
     <>
@@ -10,6 +12,8 @@ function App() {
     <Home/>
     <About/>
     <Aboutsec/>
+    <Certifications/>
+    <Documents/>
     </>
   );
 }

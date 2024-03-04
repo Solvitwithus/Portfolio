@@ -1,0 +1,42 @@
+.certifications-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+  }
+  
+  #certhead {
+    color: rgb(17, 96, 99);
+    text-align: center;
+    margin-top: 3vh;
+    font-size: 2rem;
+  }
+  
+  #certdetail {
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+    margin-top: 20px;
+    margin-left: 0;
+  }
+  .languageicon{
+    height:8vh;
+    width:5vw;
+  }
+  .languageicon1{
+    height:7vh;
+    width:4vw;
+    padding: 8px;
+  }
+  .languageicon-1{
+    height:7vh;
+    width:4vw;
+    padding: 8px;
+  }
+  .languagename:hover{
+    color:brown;
+  }
+  #certsec{
+    display: flex;
+  }
