@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Solvitwithus/Portfolio/static/css/main.a42878b0.css",
+    "main.js": "/Solvitwithus/Portfolio/static/js/main.d946fe97.js",
+    "static/js/453.1407b060.chunk.js": "/Solvitwithus/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/prof.jpg": "/Solvitwithus/Portfolio/static/media/prof.5794d0ca457d5c35389b.jpg",
+    "static/media/ig.png": "/Solvitwithus/Portfolio/static/media/ig.f431e145a6df3425cc5e.png",
+    "static/media/icon.png": "/Solvitwithus/Portfolio/static/media/icon.a6183abbcf384c07de9a.png",
+    "static/media/location.png": "/Solvitwithus/Portfolio/static/media/location.fab496b761ed9e837d68.png",
+    "static/media/hire.png": "/Solvitwithus/Portfolio/static/media/hire.7f8476f3a44f5edfce6c.png",
+    "static/media/twitter.png": "/Solvitwithus/Portfolio/static/media/twitter.b33d4215473d648c45fe.png",
+    "static/media/mesageicon.png": "/Solvitwithus/Portfolio/static/media/mesageicon.a157c951660dac7ba114.png",
+    "static/media/in.png": "/Solvitwithus/Portfolio/static/media/in.dc6de45afad86eef70d1.png",
+    "static/media/fb.png": "/Solvitwithus/Portfolio/static/media/fb.5a87a256d0e030f180c8.png",
+    "static/media/utub.png": "/Solvitwithus/Portfolio/static/media/utub.ddb9a74c86564131c46d.png",
+    "static/media/CIRRICULUM VITAE..docx": "/Solvitwithus/Portfolio/static/media/CIRRICULUM VITAE..9f8c6f13357f0e3b87b7.docx",
+    "index.html": "/Solvitwithus/Portfolio/index.html",
+    "main.a42878b0.css.map": "/Solvitwithus/Portfolio/static/css/main.a42878b0.css.map",
+    "main.d946fe97.js.map": "/Solvitwithus/Portfolio/static/js/main.d946fe97.js.map",
+    "453.1407b060.chunk.js.map": "/Solvitwithus/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a42878b0.css",
+    "static/js/main.d946fe97.js"
+  ]
+}
