@@ -4,6 +4,7 @@ import About from "./about";
 import Aboutsec from "./aboutsec";
 import Certifications from "./certifications";
 import Documents from "./docs";
+import Footer from "./footer";
 function App() {
   return (
     <>
@@ -14,6 +15,7 @@ function App() {
     <Aboutsec/>
     <Certifications/>
     <Documents/>
+    <Footer/>
     </>
   );
 }

@@ -18,6 +18,13 @@
     background-color: hsl(0, 8%, 77%);
  
 }
+#deskbtn:hover{
+    cursor: pointer;
+}
+#deskbtn:hover {
+    background-color: hsl(0, 8%, 70%); /* Red background color when hovered */
+    color: #ffffff; /* White text color when hovered */
+  }
 
 .desktopmenu{
     margin: 1rem;

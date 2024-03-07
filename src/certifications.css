@@ -5,6 +5,15 @@
     justify-content: center;
 
   }
+  @media screen and (max_width:480px) {
+    .certifications-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+  
+    }
+}
   
   #certhead {
     color: rgb(17, 96, 99);
@@ -40,3 +49,4 @@
   #certsec{
     display: flex;
   }
+  

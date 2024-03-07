@@ -3,6 +3,9 @@ import logo from './Assets/icon.png'
 import message from './Assets/mesageicon.png'
 import {Link} from 'react-scroll'
 function Navigation() {
+    const handleContactMeClick = () => {
+        window.open('https://wa.me/254746741528', '_blank');
+      };
     return(
         <>
    <nav id='navbar'>
@@ -13,7 +16,7 @@ function Navigation() {
 <Link class='desktopmenu'>Certification</Link>
 <Link class='desktopmenu'>Contact</Link>
     </div>
-    <button id='deskbtn'>
+    <button id='deskbtn' onClick={handleContactMeClick}>
         <img src={message} alt='Message' id='mesageimg' />Contact Me
     </button>
    </nav>

@@ -1,40 +1,20 @@
 #innersec{
     display: flex;
     margin-top: 2rem;
+   background-color: rgb(180, 204, 204);
    
-    justify-content: center;
 
 }
-#innermost1{
-    display: flex;
-    flex-direction: column;
-  
-    padding: 10px;
-    justify-content: flex-start;
-    margin-left: 1rem;
-    
-}
-.lognname{
-    display: flex;
-    
-    align-items: center;
-}
-#logo{
-    height:7vh;
-    width:3vw;
-}
-.paragraph{
-    font-size: 1.4rem;
-    padding-left: 20px;
-}
+
+
+
+
 .paragraph2{
     font-size: 1.4rem;
     padding: 10px;
     
 }
-.header{
-    padding-left: 40px;
-}
+
 
 #innermost2{
     display: flex;
@@ -48,4 +28,8 @@
 #education{
    text-align: center;
    margin-top: 3rem;
+}
+#cv{
+    margin-top: 3rem;
+    margin-left: 6rem;
 }

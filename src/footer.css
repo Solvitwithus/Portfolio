@@ -1,0 +1,96 @@
+#footer{
+    background-color: #333333;
+    color: white;
+   padding:10px;
+  flex-direction: column;
+  border: 2px solid rgb(226, 186, 186);
+  border-radius: 15px;
+}
+#upperfoot{
+    display: flex;
+}
+@media screen and (max_width:480px){
+    #upperfoot{
+        display: flex;
+        flex-direction: column;
+    } 
+}
+#btn1{
+    width: 50px;
+    height: 30px;
+    background-color: beige;
+    color: red;
+    margin-left: 10px;
+    
+}
+#input{
+    color:beige;
+    width: 60%;
+    height: 30px;
+}
+#socialicons{
+    display: flex;
+    padding: 1rem;
+}
+.icon{
+    height: 2rem;
+    width: 2rem;
+    padding-right: 5px;
+}
+.iconloc{
+    height: 2rem;
+    width: 2rem;
+    
+}
+.icon1{
+    height: 1.4rem;
+    width: 1.6rem;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+.icon2{
+    height: 1.5rem;
+    width: 1.6rem;
+    padding-right: 5px;
+}
+.icon3{
+    height: 2.5rem;
+    width: 2.5rem;
+    padding-right: 5px;
+}
+
+#kamiru{
+    font-size: 2rem;
+}
+#left{
+    float: right;
+    
+    font-size: 2rem;
+}
+.text{
+    font-size: 1.5rem;
+    color: rgb(190, 202, 202);
+}
+.text1{
+    font-size: 1.2rem;
+    color: rgb(190, 202, 202);
+}
+.textcopy{
+    font-size: 1.5rem;
+    color: rgb(194, 183, 111);
+}
+.container {
+    display: flex;
+    align-items: center;
+  }
+  #checkbox{
+    width: 25px;
+    height: 25px;
+    margin:25px,10px,10px,10px
+  }
+  #left{
+    width: 50%;
+  }
+  #checktext{
+    font-size: 1.3rem;
+  }

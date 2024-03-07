@@ -52,6 +52,13 @@
     border: none;
     border-radius: 2rem;
 }
+#btn:hover{
+    cursor: pointer;
+}
+#btn:hover {
+    background-color: #ff0000; /* Red background color when hovered */
+    color: #ffffff; /* White text color when hovered */
+  }
 
 #btnimg {
     object-fit: cover;
