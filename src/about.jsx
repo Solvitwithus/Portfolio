@@ -16,7 +16,7 @@ function About(){
             <div id='skillbar'>
             <img src='https://img.freepik.com/premium-vector/web-developer-logo-template_674356-207.jpg' alt='webdev' class='skillimg'/>      
             <div id='skillbartext'>
-                <h2>Website Development</h2>
+                <h2>Web3 Website Development</h2>
                 <p>With a mastery in website development, I specialize in crafting stunning and interactive online experiences. From dynamic front-end designs to robust back-end implementations, I bring your vision to life with precision and flair. By harnessing cutting-edge technologies, I create captivating websites that captivate users and leave a lasting impression.</p>
             </div>
             </div>
