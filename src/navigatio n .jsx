@@ -3,7 +3,7 @@ import './navigation.css'
 import logo from './Assets/icon.png'
 import message from './Assets/mesageicon.png'
 import {Link} from 'react-scroll'
-import Menu from './Assets/menu.png'
+import Menu from './Assets/ham.png'
 function Navigation() {
     const [showmenu,setshowmenu] = useState(false);
     const handleContactMeClick = () => {

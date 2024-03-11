@@ -18,8 +18,9 @@ body{
 }
 
 /* Thumb */
+
 ::-webkit-scrollbar-thumb {
-  background-color: #888; /* Color of the scrollbar thumb */
+  background: linear-gradient(135deg, rgb(116, 67, 116), rgb(133, 92, 15)); /* Gradient background */
 }
 
 /* Hovered Thumb */

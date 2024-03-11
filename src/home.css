@@ -15,9 +15,14 @@
     z-index: -1;
     object-fit: cover;
     height: 85vh;
-    width:60vh;
+    width: 60vh;
+    display: block;
+}
 
-  
+@media screen and (max-width: 820px) {
+    #profilepik {
+        display: none;
+    }
 }
 
 #introcontent {

@@ -4,7 +4,7 @@ function Aboutsec (){
         <section id='section'>
                <div id='aboutsection'>
                    <img src='https://www.jaxtr.com/wp-content/uploads/2020/04/Blockchain-1-1068x601.jpg' alt='blockchain' id='img'/>
-                   <p></p>
+                  
                </div>
                <div id='mvvsection'>
                 <h2>Mission, Vision and Values</h2>

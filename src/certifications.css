@@ -13,6 +13,10 @@
       justify-content: center;
   
     }
+    #certsec{
+      display: flex;
+      flex-direction: column;
+    }
 }
   
   #certhead {

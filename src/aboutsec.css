@@ -66,6 +66,10 @@
       float: none;
       margin-left: 0;
     }
+    #img {
+      max-width: 100%;
+      height: auto;
+   }
   }
   
   @media (max-width: 480px) {
@@ -74,9 +78,10 @@
         flex-direction: column;
 
       }
-      #img{
-        width:100vw;
-      }
+      #img {
+        max-width: 100%;
+        height: auto;
+     }
     #mvvsection {
       padding: 20px;
     }
